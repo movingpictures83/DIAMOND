@@ -1,0 +1,2 @@
+database	plugins/DIAMOND/example/pdb.fasta
+sequences	plugins/DIAMOND/example/assembly.fa

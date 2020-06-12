@@ -1,0 +1,2 @@
+Prefix plugins/DIAMOND/example
+Plugin DIAMOND inputfile parameters.txt outputfile pdb.daa
