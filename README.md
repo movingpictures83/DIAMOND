@@ -1,7 +1,9 @@
+# DIAMOND
 # Language: C++
 # Input: TXT
-# Output: FASTA
+# Output: DAA
 # Tested with: PluMA 1.0, GCC 4.8.4
+# Dependency: Diamond 0.8.22
 
 PluMA plugin to perform protein alignments with DIAMOND (Buchfink et al, 2014).
 
