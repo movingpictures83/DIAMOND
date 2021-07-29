@@ -1,6 +1,6 @@
-#gunzip plugins/DIAMOND/example/db.dmnd.expected.tar.gz
+gunzip -k plugins/DIAMOND/example/db.dmnd.expected.tar.gz
 bash -c "tar -xvf plugins/DIAMOND/example/db.dmnd.expected.tar >& /dev/null"
 mv db.dmnd.expected plugins/DIAMOND/example/
-#gunzip plugins/DIAMOND/example/pdb.fasta.tar.gz
+gunzip -k plugins/DIAMOND/example/pdb.fasta.tar.gz
 bash -c "tar -xvf plugins/DIAMOND/example/pdb.fasta.tar >& /dev/null"
 mv pdb.fasta plugins/DIAMOND/example/
